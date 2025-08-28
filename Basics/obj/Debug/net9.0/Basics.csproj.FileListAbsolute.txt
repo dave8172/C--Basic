@@ -1,0 +1,14 @@
+C:\Users\Asus\Documents\Learn\C# Basic\Basics\obj\Debug\net9.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\Learn\C# Basic\Basics\obj\Debug\net9.0\Basics.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Learn\C# Basic\Basics\obj\Debug\net9.0\Basics.AssemblyInfo.cs
+C:\Users\Asus\Documents\Learn\C# Basic\Basics\obj\Debug\net9.0\Basics.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Learn\C# Basic\Basics\bin\Debug\net9.0\Basics.exe
+C:\Users\Asus\Documents\Learn\C# Basic\Basics\bin\Debug\net9.0\Basics.deps.json
+C:\Users\Asus\Documents\Learn\C# Basic\Basics\bin\Debug\net9.0\Basics.runtimeconfig.json
+C:\Users\Asus\Documents\Learn\C# Basic\Basics\bin\Debug\net9.0\Basics.dll
+C:\Users\Asus\Documents\Learn\C# Basic\Basics\bin\Debug\net9.0\Basics.pdb
+C:\Users\Asus\Documents\Learn\C# Basic\Basics\obj\Debug\net9.0\Basics.dll
+C:\Users\Asus\Documents\Learn\C# Basic\Basics\obj\Debug\net9.0\refint\Basics.dll
+C:\Users\Asus\Documents\Learn\C# Basic\Basics\obj\Debug\net9.0\Basics.pdb
+C:\Users\Asus\Documents\Learn\C# Basic\Basics\obj\Debug\net9.0\Basics.genruntimeconfig.cache
+C:\Users\Asus\Documents\Learn\C# Basic\Basics\obj\Debug\net9.0\ref\Basics.dll
